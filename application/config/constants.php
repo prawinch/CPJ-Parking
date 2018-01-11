@@ -98,7 +98,7 @@ defined('REGARDS')      OR define('REGARDS', 'MVH'); // SEND ALLOCATIN TO MEMBER
 
 defined('ADMIN_NAME')      OR define('ADMIN_NAME', 'BRF Smedby3'); // SEND ALLOCATIN TO MEMBERS
 
-defined('ACCOUNTS_MAIL')      OR define('ACCOUNTS_MAIL', 'info@storholmen.se'); // SEND ALLOCATIN TO MEMBERS
+defined('ACCOUNTS_MAIL')      OR define('ACCOUNTS_MAIL', 'billing@cpjtechnosolutions.com'); // SEND ALLOCATIN TO MEMBERS
 
 
 
